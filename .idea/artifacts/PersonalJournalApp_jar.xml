@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PersonalJournalApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PersonalJournalApp_jar</output-path>
+    <root id="archive" name="PersonalJournalApp.jar">
+      <element id="module-output" name="PersonalJournalApp" />
+    </root>
+  </artifact>
+</component>
